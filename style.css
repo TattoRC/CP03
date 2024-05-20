@@ -1,0 +1,33 @@
+.header{
+    background-color: blueviolet;
+    height: 140px;
+    width: 980px;
+    font-size: large;
+    margin-bottom: 15px;
+}
+
+.siderbar{
+    background-color: chartreuse;
+    height: 450px;
+    width: 270px;
+    font-size: large;
+    margin-right: 15px;
+}
+
+.content{
+    background-color: cornflowerblue;
+    height: 450px;
+    width: 690px;
+    font-size: large;
+    float: left;
+    display: right;
+    margin-left: 290px;
+}
+
+.footer{
+    background-color:black;
+    height: 70px;
+    width: 980px;
+    font-size: large;
+    margin-top: 15px;
+}
